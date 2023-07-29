@@ -1,0 +1,21 @@
+{
+    "intersection1":
+    {
+        "east": "443",
+        "south": "217",
+        "north": "184",
+        "west": "263",
+        "yellow": "3",
+        "allRed": "1",
+        "PHF": "0.90",
+        "totalLostTime": "3.5"
+    },
+
+    "saturationFlow":
+    {
+        "north": "3700",
+        "south": "3700",
+        "east": "3700",
+        "west": "3700"
+    }
+}
